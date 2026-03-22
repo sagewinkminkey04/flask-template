@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Tidied up project structure
 - Checked for memory leaks in long-running path
+
+## 2026-03-23
+- Removed unused variable declarations
+- Addressed feedback from self code review
